@@ -1,5 +1,5 @@
       * Output_Record
-      *Replace prefix with C and N respectively
+      *Replace prefix with C and N for Connecticut or New York
        01  Prefix_Record.
            05  Prefix_State                   PIC X(2).
            05  Prefix_Location                PIC X(15).
