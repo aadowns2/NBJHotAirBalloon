@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{535C04D7-A2A5-47C7-83E0-B340A995CD1F}") = "NBJHotAirBallon", "NBJHotAirBallon\NBJHotAirBallon.cblproj", "{BBAEB1D2-8D90-4CE1-BBF1-7240D477CA4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBAEB1D2-8D90-4CE1-BBF1-7240D477CA4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBAEB1D2-8D90-4CE1-BBF1-7240D477CA4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBAEB1D2-8D90-4CE1-BBF1-7240D477CA4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBAEB1D2-8D90-4CE1-BBF1-7240D477CA4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
